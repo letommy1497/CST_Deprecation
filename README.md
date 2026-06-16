@@ -1706,7 +1706,7 @@
     </strong>
   </div>
 
-  <div class="finale-heart" style="margin-top:20px; font-size:1.4rem;">— With love, Tommy 🌟</div>
+  <div class="finale-heart" style="margin-top:20px; font-size:1.4rem;">— Sincerely, Tommy 🌟</div>
 
   <div style="font-family:'Space Mono',monospace; font-size:0.6rem; color:rgba(200,228,248,0.5); letter-spacing:0.2em; margin-top:24px; text-align:center; position:relative; z-index:2;">
     ART STYLE INSPIRED BY MAKOTO SHINKAI · YOUR NAME · 君の名は
